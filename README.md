@@ -1,4 +1,4 @@
-# CS747-Assignment-3
+# Autonomous Driving Car in 2D space for a specific environment
 
 Task 1: Navigate Car such that it will exit the square grid without colliding with the wall.
 
